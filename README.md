@@ -1,16 +1,26 @@
-### Hi there 👋
+###  Hi there 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
+
+<p align="left">Hey, I'm legendary0001 aka jagrit. Check out <a href="https://thelegendary.me">thelegendary.me</a> My website </p>
+
+###  Languages and Tools:
+<p>These Are some of the languages that I know and use</p>
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br />
+<p>&nbsp;</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legendary0001&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="legendary0001 height="200"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary0001&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
+<br />
 
 <!--
-**legendary0001/legendary0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<h3>What I am listening to!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://darks-spotify-page.vercel.app/api/run-spotify-status" width="500" />
+</p>
+--!>
