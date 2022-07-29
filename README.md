@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendary0001" alt="legendary0001" /> </p>
 
 <p align="left">Hey, I'm legendary0001 aka jagrit. Check out <a href="https://thelegendary.me">thelegendary.me</a> My website </p>
 
