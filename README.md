@@ -13,7 +13,7 @@
 <br />
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legendary0001&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="legendary0001 height="200"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary0001&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary0001&langs_count=9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
 <br />
 
 <!--
