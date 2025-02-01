@@ -1,8 +1,8 @@
 ###  Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendary0001" alt="legendary0001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JagritThukral" alt="JagritThukral" /> </p>
 
-<p align="left">Hey, I'm legendary0001 aka jagrit. Check out <a href="https://jagritthukral.tech">thelegendary.me</a> My website </p>
+<p align="left">Hey, I'm  jagrit. Check out <a href="https://jagritthukral.tech">jagritthukral.tech</a> My website </p>
 
 ###  Languages and Tools:
 <p>These Are some of the languages that I know and use</p>
@@ -12,8 +12,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <br />
 <p>&nbsp;</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legendary0001&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="legendary0001 height="200"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendary0001&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JagritThukral&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="legendary0001 height="200"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagritThukral&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
 <br />
 <!--
 <p align="center">
