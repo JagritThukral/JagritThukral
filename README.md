@@ -16,15 +16,9 @@
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
-<p>&nbsp;</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JagritThukral&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="JagritThukral height="200"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagritThukral&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
-<br />
-<!--
+<p>&nbsp;</p><!--
 <p align="center">
 
-<h3>What I am listening to!</h3>
 
-<img align="center" src="https://darks-spotify-page.vercel.app/api/run-spotify-status" width="500" />
-</p>
+
 --!>
