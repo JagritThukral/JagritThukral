@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagritThukral" alt="JagritThukral" /> </p>
 
-<p align="left">Hey, I'm  jagrit. Check out <a href="https://jagritthukral.tech">jagritthukral.tech</a> My website </p>
+<p align="left">Hey, I'm  jagrit. Check out <a href="https://jagritthukral.dev">jagritthukral.dev</a> My website </p>
 
 ###  Languages and Tools:
 <p>These Are some of the languages, tools that I know and use</p>
